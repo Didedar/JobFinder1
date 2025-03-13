@@ -1,0 +1,12 @@
+flask
+PyPDF2
+werkzeug
+requests
+python-docx
+python-magic
+chardet
+google-generativeai
+python-dotenv
+tenacity
+psutil
+gunicorn
